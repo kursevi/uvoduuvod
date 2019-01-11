@@ -1,0 +1,10 @@
+1. napraviti repo 
+2. clonirati
+3. dodati fajlove
+4. pushovati na remote srv
+5. napraviti issue
+6. napraviti branch
+7. napraviti p
+
+
+gigigigiigig
